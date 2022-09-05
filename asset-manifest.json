@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/deploy19hw/static/css/main.6a4669fd.chunk.css",
+    "main.js": "/deploy19hw/static/js/main.abc5b38e.chunk.js",
+    "main.js.map": "/deploy19hw/static/js/main.abc5b38e.chunk.js.map",
+    "runtime-main.js": "/deploy19hw/static/js/runtime-main.2aa05cda.js",
+    "runtime-main.js.map": "/deploy19hw/static/js/runtime-main.2aa05cda.js.map",
+    "static/js/2.da1e793f.chunk.js": "/deploy19hw/static/js/2.da1e793f.chunk.js",
+    "static/js/2.da1e793f.chunk.js.map": "/deploy19hw/static/js/2.da1e793f.chunk.js.map",
+    "index.html": "/deploy19hw/index.html",
+    "static/css/main.6a4669fd.chunk.css.map": "/deploy19hw/static/css/main.6a4669fd.chunk.css.map",
+    "static/js/2.da1e793f.chunk.js.LICENSE.txt": "/deploy19hw/static/js/2.da1e793f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2aa05cda.js",
+    "static/js/2.da1e793f.chunk.js",
+    "static/css/main.6a4669fd.chunk.css",
+    "static/js/main.abc5b38e.chunk.js"
+  ]
+}
